@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>COVID-19 Vaccination</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>COVID-19 Vaccination Dashboard</h1>
+        <p>Interactive charts that shows the analysis of the global impact of COVID-19 vaccination efforts and provide insights into vaccination progress, distribution, and its correlation with various factors.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+      </div>
+      <div class="well">
+        <h5>Filter by Continent:</h5>
+        <select id="continentDropdown"></select>
+      </div>
+      <div class="well">
+        <h5>Filter by Date:</h5>
+        <select id="dateDropdown"></select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="scatter"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="table" class="well">
+          <h4>Table</h4>
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Location</th>
+                <th>People Fully Vaccinated</th>
+                <th>People Vaccinated</th>
+                <th>Population</th>
+                <th>Total Cases</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+     
+  </div>
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
