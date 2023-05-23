@@ -15,7 +15,7 @@ Our project aims to analyze the global impact of COVID-19 vaccination efforts an
 
 
 ### Conclusion:
- 
+In conclusion, the vaccination progress varies across different countries or regions. Disparities exist, with some countries achieving higher levels of vaccination coverage than others. Higher GDP per capita generally indicates better healthcare resources, which can contribute to higher vaccination rates. It is essential to continue promoting equitable vaccine distribution and ensuring access to vaccines for all populations, regardless of economic factors 
 
 ### Data Sets Used:
 1. COVID-19 vaccination data: https://ourworldindata.org/covid-vaccinations
