@@ -23,6 +23,7 @@ In conclusion, the vaccination progress varies across different countries or reg
 
 ### References:
 1. https://www.youtube.com/watch?v=g6cjhUhrhY8&ab_channel=LoreSoWhat
+2. https://fonts.google.com/?preview.text=covid%2019&preview.text_type=custom&category=Display&sort=popularity
 
 ### Rough Breakdown of Tasks:
 1. Data Collection: Gather data on COVID-19 vaccinations and global COVID-19 statistics from the provided sources.
