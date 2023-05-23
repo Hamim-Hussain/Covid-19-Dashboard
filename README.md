@@ -8,11 +8,10 @@ Our project aims to analyze the global impact of COVID-19 vaccination efforts an
 
 ### Research Questions:
 1. How many people are partially vaccinated with only one dose of the COVID vaccine globally?  
-2. What is the number of fully vaccinated individuals who have received both doses of the COVID vaccine worldwide?    
-3. What is the percentage or share of people who have not taken the COVID vaccine?   
-4. How does the vaccination progress vary across different countries or regions? Are there any disparities?    
-5. Is there a correlation between the GDP per capita of a country and the percentage of its population that is fully vaccinated against COVID-19?
-6. What is the current global death toll due to COVID-19?      
+2. What is the number of fully vaccinated individuals who have received both doses of the COVID vaccine worldwide?       
+3. How does the vaccination progress vary across different countries or regions? Are there any disparities?    
+4. Is there a correlation between the GDP per capita of a country and the percentage of its population that is fully vaccinated against COVID-19?
+5. What is the current global death toll due to COVID-19?      
 
 
 ### Conclusion:
