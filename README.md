@@ -31,3 +31,11 @@ In conclusion, the vaccination progress varies across different countries or reg
 3. Visualization: Utilize JavaScript, particularly Leaflet.js, to create interactive visualizations showcasing the research questions.
 4. Analysis: Analyze the data to answer the research questions and identify any correlations or insights.
 5. Presentation: Create a presentation (on Powerpoint) summarising the findings and insights. 
+
+### How to access the index.html
+1. First download the folder called 'vaccine'.
+2. Open you terminal and 'cd' into where the 'vaccine' folder is located in your computer.
+3. Then in the terminal type in, 'python -m http.server'.
+4. It should show, 'Serving HTTP on :: 8000'.
+5. Go to your browser and type in the search bar, 'localhost8000'.
+6. This will display the dashboard.
