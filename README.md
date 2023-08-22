@@ -30,8 +30,8 @@ In conclusion, the vaccination progress varies across different countries or reg
 ### Rough Breakdown of Tasks:
 1. Data Collection: Gather data on COVID-19 vaccinations and global COVID-19 statistics from the provided sources.
 2. Data Cleaning: Preprocess the data, handle missing values, and ensure consistency. 
-3. Visualization: Utilize JavaScript, particularly Leaflet.js, to create interactive visualizations showcasing the research questions.
-4. Analysis: Analyze the data to answer the research questions and identify any correlations or insights.
+3. Visualisation: Utilise JavaScript, particularly Leaflet.js, to create interactive visualizations showcasing the research questions.
+4. Analysis: Analyse the data to answer the research questions and identify any correlations or insights.
 5. Presentation: Create a presentation (on Powerpoint) summarising the findings and insights. 
 
 ### How to access the index.html
