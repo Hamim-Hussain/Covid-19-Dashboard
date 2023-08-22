@@ -17,7 +17,16 @@ Our project aim is to analyse the number of COVID-19 vaccinations administered 
 
 **Covid 19 Dashboard**
 ![Media1](images/Media1.gif)
-In conclusion, the vaccination progress varies across different countries or regions. Higher GDP per capita generally indicates better healthcare resources, which can contribute to higher vaccination rates. It would take further analysis to research in to why some countries achieved a higher level of vaccination coverage than others.
+
+In conclusion, our analysis of the COVID-19 vaccination data from various countries has provided valuable insights into the global vaccination progress and its potential correlation with GDP per capita. Through the exploration of the research questions and the examination of the data, several key findings have emerged:
+
+1. **Partial Vaccination Distribution**: We observed variations in the number of individuals partially vaccinated with a single dose of the COVID-19 vaccine across different countries and continents. This indicates that the pace and extent of vaccination efforts vary significantly on a global scale.
+2. **Full Vaccination Rates**: Our analysis also revealed differences in the number of fully vaccinated individuals who have received both doses of the COVID-19 vaccine. This demonstrates that some regions have achieved higher levels of complete vaccination coverage compared to others.
+3. **GDP Per Capita and Vaccination Correlation**: We explored the relationship between a country's GDP per capita and the percentage of its population that is partially vaccinated against COVID-19. Our findings suggest a potential correlation between higher GDP per capita and increased vaccination rates. Countries with stronger economic resources may be better equipped to invest in healthcare infrastructure and vaccination campaigns, leading to higher vaccination coverage.
+4. **Global Impact**: We visualised the current global death toll due to COVID-19 on a map with markers. This visualisation highlights the unfortunate toll that the pandemic has taken on various regions around the world.
+5. **Future Research**: While our analysis provides valuable insights, further investigation is needed to understand the factors contributing to variations in vaccination rates across countries. Social, political, and logistical factors could play a significant role in shaping the differences observed.
+
+In summary, our project sheds light on the complex relationship between COVID-19 vaccinations, economic indicators like GDP per capita, and global health outcomes. The findings suggest that a combination of economic resources, healthcare infrastructure, and public health initiatives play a crucial role in shaping vaccination progress. This analysis provides valuable insights for policymakers and health organizations as they continue to navigate the challenges posed by the ongoing pandemic.
 
 ### Data Sets Used:
 1. COVID-19 vaccination data: https://ourworldindata.org/covid-vaccinations
