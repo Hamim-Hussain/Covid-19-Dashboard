@@ -1,7 +1,6 @@
-# Project-3 Covid 19
+# COVID-19 Vaccination Analysis and Global Impact
 ![1-Logo](picture/Capture1.PNG)
-## Project Title - COVID-19 Vaccination Analysis and Global Impact
-Team Members - Hamim, Prav, Maxwell, Rukayat 
+Team Members - Hamim, Prav, Maxwell
 
 ### Project Description/Outline:
 Our project aim is to analyze the number of COVID-19 vaccinations administered worldwide and if there is a correlation with GDP per capita.
