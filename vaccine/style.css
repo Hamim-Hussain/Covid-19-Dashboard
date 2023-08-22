@@ -1,0 +1,176 @@
+/*background design*/
+body {
+    background-color: white;
+    padding: 70px;
+    margin: 70px;
+    background-color: white;
+    animation: backgroundAnimation 5s ease-in-out infinite alternate;
+  }
+  
+  @keyframes backgroundAnimation {
+    0% {
+      background-color: rgb(117, 211, 195);
+    }
+    50% {
+      background-color: rgb(137, 92, 149);
+    }
+    100% {
+      background-color: rgb(55, 178, 227);
+    }
+  }
+
+  body {
+    background-color: white;
+    padding: 70px;
+    margin: 0;
+    position: relative;
+  }
+  
+  body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: -1;
+  }
+  
+  body::before {
+    animation: dotsAnimation 2s linear infinite;
+    background: radial-gradient(circle, #fbf7f7 10%, transparent 10%);
+    background-size: 30px 30px;
+  }
+  
+  @keyframes dotsAnimation {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 30px 30px;
+    }
+  }
+  
+  
+/* Style for the dropdown container */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for the dropdown well */
+.well {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Style for the dropdown label */
+.well h5 {
+  margin-top: 0;
+}
+
+/* Style for the dropdown select */
+.well select {
+  display: block;
+  margin: 0 auto;
+  padding: 8px;
+  font-size: 16px;
+  border: 0.25px solid #0c00ee;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Style for the active dropdown option */
+.well select option:checked {
+  background-color: #2196f3;
+  color: #fff;
+}
+
+/* Style for the dropdown options */
+.well select option {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Style for the container of dropdown menu */
+.well {
+  background-color: #46284d;
+  padding: 10px;
+  width: 600px; /* Adjust the width of the box */
+  max-width: 100%; /* Adjust the maximum width of the box */
+  margin: 0 auto;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Add space between elements */
+.row {
+  margin-bottom: 20px;
+}
+
+.well {
+  margin-bottom: 20px;
+}
+
+#bar {
+  margin-bottom: 20px;
+  margin-left: 150px;
+}
+
+#gauge {
+  margin-bottom: 20px;
+}
+
+#scatter {
+  margin-bottom: 20px;
+}
+
+#table {
+  margin-bottom: 20px;
+
+
+/*fonts*/ 
+}
+.jumbotron h1 {
+  font-family: 'Rubik Microbe', cursive;
+  color: #ffffff; 
+  font-size: 90px;
+}
+
+.jumbotron {
+  background-color: #46284d; /* box background color */
+}
+
+.jumbotron p {
+  font-family: 'Righteous', cursive;
+  color: #ffffff; 
+}
+
+.table {
+  font-family: 'Righteous', cursive;
+  font-size: 14px; 
+  color: #ffffff; 
+}
+
+#continentDropdown,
+#dateDropdown {
+  font-family: 'Righteous', cursive;
+  font-size: 20px; 
+  color: #000000; 
+}
+
+/* Style for the dropdown labels */
+.well h5 {
+  font-family: 'Righteous', cursive;
+  font-size: 30px; 
+  color: #ffffff; 
+}
+
+#table h4 {
+  font-family: 'Righteous', cursive;
+  font-size: 40px; 
+  color: #ffffff; 
+}
