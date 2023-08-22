@@ -3,7 +3,7 @@
 Team Members - Hamim, Prav
 
 ### Project Description/Outline:
-Our project aim is to analyze the number of COVID-19 vaccinations administered worldwide and if there is a correlation with GDP per capita.
+Our project aim is to analyse the number of COVID-19 vaccinations administered worldwide and if there is a correlation with GDP per capita.
 
 
 ### Research Questions:
