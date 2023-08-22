@@ -14,6 +14,7 @@ Our project aim is to analyse the number of COVID-19 vaccinations administered 
 
 
 ### Conclusion:
+![Media1](Images/Media1.gif)
 In conclusion, the vaccination progress varies across different countries or regions. Higher GDP per capita generally indicates better healthcare resources, which can contribute to higher vaccination rates. It would take further analysis to research in to why some countries achieved a higher level of vaccination coverage than others.
 
 ### Data Sets Used:
